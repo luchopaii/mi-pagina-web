@@ -3,11 +3,10 @@
     align-items: center;
     position: absolute;
     top: 40%;
-    left: 45%;
+    left: 55%;
     z-index: 10;
     color: aliceblue;
 }
-
 .botones_principales2{
     border-radius: 2%;
     align-items: center;
@@ -17,6 +16,16 @@
     z-index: 10;
     color: aliceblue;
 }
+.botones_principales3{
+    border-radius: 2%;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    z-index: 10;
+    color: aliceblue;
+}
+
 
 #titulo{
     background-color: antiquewhite;
