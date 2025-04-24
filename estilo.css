@@ -1,0 +1,60 @@
+.botones_principales{
+    border-radius: 2%;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    z-index: 10;
+    color: aliceblue;
+}
+
+.botones_principales2{
+    border-radius: 2%;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    z-index: 10;
+    color: aliceblue;
+}
+
+#titulo{
+    background-color: antiquewhite;
+    text-align:left;
+    margin: auto;
+
+}
+
+.boton{
+    border-radius: 10px;
+    border-style: outset;
+}
+.boton2{
+    border-style: outset;
+    border-radius: 10px;
+}
+
+
+body{
+    padding: 0%;
+    margin: auto;
+    overflow-y: hidden;
+    background-color: antiquewhite;
+}
+
+#pie{
+    background-color: antiquewhite;
+    z-index: 10;
+    margin: auto;
+}
+
+.carousel,
+.carousel-inner,
+.carousel-item,
+.carousel-item img {
+  height: 93vh; /* 100% del alto de la ventana */
+  width: 100%;  /* 100% del ancho de la ventana */
+  background-color: antiquewhite;
+  z-index: 1;
+  padding: 0%;
+}
